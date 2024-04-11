@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @parag25G
 
+Hello here is the Macro i created for Katana to assign Comp ID (MatteID) based on objects feel free to use and let me know your feedbacks 
 
 download the prmanMatteID AOV 
 
